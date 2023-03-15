@@ -4,7 +4,8 @@
   "description": "Discord module desiged to be integrated with kdCode main modules",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cls && echo Running dev build... && node src/app.js"
   },
   "repository": {
     "type": "git",
