@@ -1,0 +1,35 @@
+{
+  "name": "kdcode-discord",
+  "version": "1.0.0",
+  "description": "Discord module desiged to be integrated with kdCode main modules",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mDevJS/kdCode-Discord.git"
+  },
+  "keywords": [
+    "kdCode",
+    "Discord",
+    "Key-Drop",
+    "BOT",
+    "Module",
+    "Node",
+    "JS",
+    "Javascript"
+  ],
+  "author": "mDeveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mDevJS/kdCode-Discord/issues"
+  },
+  "homepage": "https://github.com/mDevJS/kdCode-Discord#readme",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
